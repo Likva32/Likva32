@@ -19,6 +19,7 @@
 [![whatsapp](https://img.shields.io/badge/-whatsapp-020202?style=for-the-badge&logo=whatsapp)](https://wa.me/0532285649)
 [![Telegram](https://img.shields.io/badge/-linkedin-020202?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/artur-tkach-3884ba253/)
 [![instagram](https://img.shields.io/badge/-instagram-020202?style=for-the-badge&logo=instagram)](https://www.instagram.com/likva32/)
+[![Discord](https://img.shields.io/badge/-Discord-020202?style=for-the-badge&logo=Discord)](discordapp.com/users/419181049432637440)
 
 
 
