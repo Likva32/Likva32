@@ -2,13 +2,22 @@
 
 ## About me
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Likva32)]
+
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-020202?style=for-the-badge&logo=python&logoColor=ffd35d)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-020202?style=for-the-badge&logo=TensorFlow)
 ![SQLite](https://img.shields.io/badge/-SQLite-020202?style=for-the-badge&logo=SQLite)
-![C#](https://img.shields.io/badge/-C%23-020202?style=for-the-badge&logo=(https://github.com/Likva32/Likva32/blob/main/assets/Csharp_Logo.png))
+![C#](https://img.shields.io/badge/-C%23-020202?style=for-the-badge&logo=C#)
+![Unity](https://img.shields.io/badge/-Unity-020202?style=for-the-badge&logo=Unity)
+![PyCharm](https://img.shields.io/badge/-PyCharm-020202?style=for-the-badge&logo=PyCharm)
+![draw.io](https://img.shields.io/badge/-draw.io-020202?style=for-the-badge&logo=darta)
 
-Follow me
+### How to contact me
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Likva32)](https://github.com/anuraghazra/github-readme-stats)
+[![Telegram](https://img.shields.io/badge/-Telegram-020202?style=for-the-badge&logo=Telegram)](https://t.me/Likva32)
+[![whatsapp](https://img.shields.io/badge/-whatsapp-020202?style=for-the-badge&logo=whatsapp)](https://wa.me/0532285649)
+[![Telegram](https://img.shields.io/badge/-linkedin-020202?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/artur-tkach-3884ba253/)
+
+
 
