@@ -11,7 +11,7 @@
 ![C#](https://img.shields.io/badge/-C%23-020202?style=for-the-badge&logo=C#)
 ![Unity](https://img.shields.io/badge/-Unity-020202?style=for-the-badge&logo=Unity)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-020202?style=for-the-badge&logo=PyCharm)
-![draw.io](https://img.shields.io/badge/-draw.io-020202?style=for-the-badge&logo=darta)
+![draw.io](https://img.shields.io/badge/-draw.io-020202?style=for-the-badge&logo=https://github.com/Likva32/Likva32/blob/main/assets/Draw_io_logo.png)
 
 ### How to contact me
 
