@@ -11,7 +11,8 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-020202?style=for-the-badge&logo=SQLite)
 ![C#](https://img.shields.io/badge/-C%23-020202?style=for-the-badge&logo=C#)
 ![Unity](https://img.shields.io/badge/-Unity-020202?style=for-the-badge&logo=Unity)
-![PyCharm](https://img.shields.io/badge/-PyCharm-020202?style=for-the-badge&logo=PyCharm)
+![C](https://img.shields.io/badge/-PyCharm-020202?style=for-the-badge&logo=C)
+![JAVA](https://img.shields.io/badge/-PyCharm-020202?style=for-the-badge&logo=JAVA)
 
 ### How to contact me
 
